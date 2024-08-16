@@ -1,0 +1,14 @@
+C:\Users\sahilkumar\source\repos\OOP_Demo\bin\Debug\net8.0\OOP_Demo.exe
+C:\Users\sahilkumar\source\repos\OOP_Demo\bin\Debug\net8.0\OOP_Demo.deps.json
+C:\Users\sahilkumar\source\repos\OOP_Demo\bin\Debug\net8.0\OOP_Demo.runtimeconfig.json
+C:\Users\sahilkumar\source\repos\OOP_Demo\bin\Debug\net8.0\OOP_Demo.dll
+C:\Users\sahilkumar\source\repos\OOP_Demo\bin\Debug\net8.0\OOP_Demo.pdb
+C:\Users\sahilkumar\source\repos\OOP_Demo\obj\Debug\net8.0\OOP_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahilkumar\source\repos\OOP_Demo\obj\Debug\net8.0\OOP_Demo.AssemblyInfoInputs.cache
+C:\Users\sahilkumar\source\repos\OOP_Demo\obj\Debug\net8.0\OOP_Demo.AssemblyInfo.cs
+C:\Users\sahilkumar\source\repos\OOP_Demo\obj\Debug\net8.0\OOP_Demo.csproj.CoreCompileInputs.cache
+C:\Users\sahilkumar\source\repos\OOP_Demo\obj\Debug\net8.0\OOP_Demo.dll
+C:\Users\sahilkumar\source\repos\OOP_Demo\obj\Debug\net8.0\refint\OOP_Demo.dll
+C:\Users\sahilkumar\source\repos\OOP_Demo\obj\Debug\net8.0\OOP_Demo.pdb
+C:\Users\sahilkumar\source\repos\OOP_Demo\obj\Debug\net8.0\OOP_Demo.genruntimeconfig.cache
+C:\Users\sahilkumar\source\repos\OOP_Demo\obj\Debug\net8.0\ref\OOP_Demo.dll
